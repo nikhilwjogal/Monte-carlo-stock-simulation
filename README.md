@@ -1,2 +1,4 @@
 # Monte-carlo-stock-simulation
 This repository explores the concepts of Markowitz's efficient portfolio theory and Monte Carlo simulation. This project was made for personal learning purposes only and should not be taken as investment advice.
+
+In this project I try to create the most efficient portfolio possible from securities listed in the S&P 500, simulate the portfolio's performance over the next 4 years and compare it's performance to the S&P 500 index. I used data from the start of 2015 to the end of 2019. I chose to omit data from 2020 to get a good view of the US market before Coronavirus. Using this data I was able to create a portfolio which will outperform the S&P according to my simulations. Out of the 50 simulations I ran my portfolio is expected to outperform the S&P by 38% each year. 
